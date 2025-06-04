@@ -1,0 +1,3 @@
+"""
+FastAPI Health Check Application
+""" 
